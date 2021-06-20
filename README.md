@@ -2,6 +2,9 @@
 
 ## Project setup
 ```
+npm install lrz
+npm install ant-design-vue --save
+npm install less less-loader --save
 npm install
 ```
 
