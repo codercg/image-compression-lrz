@@ -2,8 +2,13 @@
 
 ## Project setup
 ```
+lrz主要是压缩图片的压缩库
 npm install lrz
+
+ant-design主要是用来布局界面，可以根据自己界面需求安装
 npm install ant-design-vue --save
+
+less根据自己需要的css进行安装
 npm install less less-loader --save
 npm install
 ```
