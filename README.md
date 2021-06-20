@@ -1,4 +1,5 @@
 # image-compression-lrz
+This is a use of LRZ for image compression, a simple compression tool, low distortion, relative to canser with LRZ for image compression, a simple compression tool, low distortion, relative to canvas.
 
 ## Project setup
 ```
